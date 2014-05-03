@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="diffexample.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59733991"
+     inkscape:cx="83.711713"
+     inkscape:cy="792.27003"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f4fce4;fill-opacity:1;stroke:#999999;stroke-width:0.85000185;stroke-miterlimit:4;stroke-opacity:0.58898302999999996;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3064"
+       width="306.72116"
+       height="290.21146"
+       x="24.250536"
+       y="21.849445"
+       transform="matrix(0.99999564,0.00295163,0,1,0,0)" />
+    <rect
+       style="fill:#f4fce4;fill-opacity:1;stroke:#999999;stroke-width:0.85000129;stroke-miterlimit:4;stroke-opacity:0.58898302999999996;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3064-3"
+       width="307.43503"
+       height="242.82745"
+       x="343.01062"
+       y="21.075859"
+       transform="matrix(0.99999696,0.00246398,0,1,0,0)" />
+    <path
+       style="fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 24.732159,35.147906 305.714291,0 320.35714,2.928561 -308.78676,-0.03899 c -12.42947,0.29594 -9.20286,34.760789 -11.27444,71.753273 l -306.010231,0 z"
+       id="rect3139"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="369.21075"
+       y="165.95332"
+       id="text3041"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3043"
+         x="369.21075"
+         y="165.95332"> </tspan></text>
+    <path
+       style="fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 24.464284,172.18362 305.714286,0 c 7.3985,0.29594 12.67955,-65.95718 12.80458,-73.928859 102.81346,0.48413 307.55256,0.268622 307.55256,0.268622 l -0.12147,49.993737 -307.21209,0.52436 c -4.4391,0 -11.21204,46.09687 -12.09986,61.48574 l -305.714283,0 z"
+       id="rect3139-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#eeeeec;fill-opacity:1;stroke:#babdb6;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 24.631678,247.28886 305.714292,0 c 5.47489,-0.14797 12.38361,-50.17156 12.65661,-61.25061 102.81346,0.48413 307.70053,0.56456 307.70053,0.56456 l -0.12147,36.60103 -307.21209,0.52436 c -4.88301,0.14797 -12.28373,38.20751 -12.4317,49.30526 l -306.306172,0.14797 z"
+       id="rect3139-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="20.714291"
+       y="31.933624"
+       id="text3945"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3947"
+         x="20.714291"
+         y="31.933624"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"> for (cnt = 0, ap = he-&gt;h_addr_list; *ap; ap++, cnt++) {</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="44.433624"
+         id="tspan3949"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  sockfd = socket(he-&gt;h_addrtype, SOCK_STREAM, 0);</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="56.933624"
+         id="tspan3951"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  if (sockfd &lt; 0) {</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="69.433624"
+         id="tspan3953"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   saved_errno = errno;</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="81.933624"
+         id="tspan3955"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   continue;</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="94.433624"
+         id="tspan3957"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  }</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="106.93362"
+         id="tspan3959"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas" /><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="119.43362"
+         id="tspan3961"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  memset(&amp;sa, 0, sizeof sa);</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="131.93362"
+         id="tspan3963"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  sa.sin_family = he-&gt;h_addrtype;</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="144.43362"
+         id="tspan3965"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  sa.sin_port = htons(nport);</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="156.93362"
+         id="tspan3967"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  memcpy(&amp;sa.sin_addr, *ap, he-&gt;h_length);</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="169.43362"
+         id="tspan3969"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas" /><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="181.93362"
+         id="tspan3971"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  if (connect(sockfd, (struct sockaddr *)&amp;sa, sizeof sa)</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="194.43362"
+         id="tspan3973"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   saved_errno = errno;</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="206.93362"
+         id="tspan3975"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   fprintf(stderr, &quot;%s[%d: %s]: errno=%s\n&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="219.43362"
+         id="tspan3977"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">    host,</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="231.93362"
+         id="tspan3979"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">    cnt,</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="244.43362"
+         id="tspan3981"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">    inet_ntoa(*(struct in_addr *)&amp;sa.sin_addr),</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="256.93362"
+         id="tspan3983"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">    strerror(saved_errno));</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="269.43362"
+         id="tspan3985"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   close(sockfd);</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="281.93362"
+         id="tspan3987"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   sockfd = -1;</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="294.43362"
+         id="tspan3989"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">   continue;</tspan><tspan
+         sodipodi:role="line"
+         x="20.714291"
+         y="306.93362"
+         id="tspan3991"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas">  }</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="339.76721"
+       y="32.380459"
+       id="text3945-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="32.380459"
+         id="tspan3991-6"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"> for (cnt = 0, ap = he-&gt;h_addr_list; *ap; ap++, cnt++) {</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="44.880459"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4355">  memset(&amp;sa, 0, sizeof sa);</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="57.380459"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4357">  sa.sin_family = he-&gt;h_addrtype;</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="69.880463"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4359">  sa.sin_port = htons(nport);</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="82.380463"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4361">  memcpy(&amp;sa.sin_addr, *ap, he-&gt;h_length);</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="94.880463"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4363"></tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="107.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4365">  sockfd = socket(he-&gt;h_addrtype, SOCK_STREAM, 0);</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="119.88046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4367">  if ((sockfd &lt; 0) ||</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="132.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4369">      connect(sockfd, (struct sockaddr *)&amp;sa, sizeof sa)</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="144.88046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4371">   strbuf_addf(&amp;error_message, &quot;%s[%d: %s]: errno=%s\n&quot;,</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="157.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4373">    host,</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="169.88046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4375">    cnt,</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="182.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4377">    inet_ntoa(*(struct in_addr *)&amp;sa.sin_addr),</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="194.88046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4379">    strerror(errno));</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="207.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4381">   if (0 &lt;= sockfd)</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="219.88046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4383">    close(sockfd);</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="232.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4385">   sockfd = -1;</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="244.88046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4387">   continue;</tspan><tspan
+         sodipodi:role="line"
+         x="339.76721"
+         y="257.38046"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Consolas;-inkscape-font-specification:Consolas"
+         id="tspan4389">  }</tspan></text>
+  </g>
+</svg>

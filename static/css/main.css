@@ -1,22 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Gentium+Basic:400,400italic);
 
+#book, #book h1, #book h2, #book h3, #book h4, #book h5 {
+	font-family: 'Gentium Basic', serif;	
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+#book {
+	font-size: 19px;
+}
 
+#book p {
+	margin: 1.5em 0;
+}
 
+#book .footnote {
+	margin: 0;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#book .figure {
+	margin: 1em 0;
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #888;
+	padding: 1em;
+}
+#book .figure p {
+	margin: 1em 0 0 0;
+}

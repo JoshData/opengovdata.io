@@ -1,0 +1,13 @@
+import csv
+
+# read in lat/long data
+latlng = {}
+for rec in csv.DictReader(open("data/google_transit/stops.txt")):
+	latlng[rec["stop_id"]] = (rec["stop_lat"], rec["stop_lon"])
+	
+# print out coordinates of stops in the historical file in the same
+# order as in the historical file
+for rec in csv.DictReader(open("data/Historical Rail Ridership By Station.csv"), delimiter=' '):
+	print rec
+	print latlng[rec["gtfs_stop_id"]]
+

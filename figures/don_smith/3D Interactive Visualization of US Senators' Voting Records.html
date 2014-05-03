@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<title>3D Interactive Visualization of US Senators' Voting Records</title>
+        <link rel="shortcut icon" href="http://truthsite.org/images/T2.ico" > 
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="3d visualization, US Senators, Voting Records" />
+	
+	<script src="js/swfobject.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		var flashvars = {
+		};
+		var params = {
+			menu: "false",
+			//scale: "noScale",
+			scale: "scale",
+			allowFullscreen: "true",
+			allowScriptAccess: "always",
+			bgcolor: "#000000",
+		};
+		var attributes = {
+		};
+		swfobject.embedSWF("us-senators.swf", "altContent", "45%", "65%", "10.0.0", "expressInstall.swf", flashvars, params, attributes);
+	</script>
+	<style>
+		html, body { height:100%; }
+		body { margin:0; margin-left:5px}
+		div.mine { font-size:160%;margin-left:10px;margin-top:10px; }
+		div.source { font-size:140%;margin-left:10px;margin-top:10px;color:#442222;font-weight:bold }
+		object#altContent {margin-left:50px}
+	</style>
+</head>
+<body bgcolor="#8888bb">
+	<h1><span style="font-size:24pt"> <a href="http://truthsite.org/political-visualization/us-senators.html">3D Interactive Visualization of US Senators' Voting Records</a> by Don Smith</span> <br>
+	</h1>
+	<div id="altContent" bgcolor="#000000">
+		<p>Alternative content</p>
+		<p><a href="http://www.adobe.com/go/getflashplayer"><img 
+			src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" 
+			alt="Get Adobe Flash player" /></a></p>
+	</div>
+
+	<div class="mine">
+		<strong style="color:purple;font-weight:bold">Left-click in view</strong>, then use your <strong>arrow keys</strong> to move around in 3D space  (with control-key for up and down). <br>
+		<strong>Hit the 'f' key to reset to front view, 'b' for back, 'l' for left, 'r' for right.  Click on a senator to zoom. </strong><br>
+		<strong style="color:green">Move your mouse cursor over a senator to see their name and their details.</strong> <br>
+		In the front view, the senators towards the upper left are Democrats; the senators towards the lower right are Republicans.
+	</div>
+	<div class="source">
+		The senators' locations in 3D space are determined by their votes in the 111th Congress as reported by <a href="http://www.govtrack.us/">http://www.govtrack.us/</a>. A total of 696 votes were cast, though not every senator cast every vote.  Senators who voted the same on many bills appear nearby each other; senators who voted differently appear further apart. It's self-organizing.
+		The points were generated from the raw data by a technique called multi-dimensional scaling via relaxation.<p>
+		<span style="color:red">If the 3D visualization doesn't work, try updating your Flash viewer, via <a href="http://get.adobe.com/flashplayer/">this link</a></span>.
+		<p>
+		Notice how Democrats and Republicans cluster apart, with the moderates in between.
+		<p>
+	See the similar <a href="http://truthsite.org/political-visualization/us-representatives.html">visualization for US representatives voting records</a> 
+		and <a href="http://truthsite.org/political-visualization/wa-senators.html">visualization for WA state senators' voting records</a>.
+        </div>
+
+<table cellspacing=3 cellpadding=3 border=0>
+<tr>
+
+	<td> <big>
+  <a target='_blank' href="http://digg.com/submit?url=http%3A%2F%2Ftruthsite.org%2Fpolitical-visualization%3F/us-senators.html&amp;title=Visualization+of+US+Senators">
+              <img src="http://truthsite.org/images/digg.png" />
+              <span>Digg</span>
+            </a>
+    </big>
+    </td>
+
+	<td> <big>
+    <a target='_blank' href="http://www.facebook.com/sharer.php?u=http://www.truthsite.org/political-visualization%3F/us-senators.html&amp;t=Visualization+of+US+Senators">
+              <img src="http://truthsite.org/images/facebook.png" />
+              <span>Facebook</span>
+            </a>
+    </big>
+    </td>
+
+	<td> <big>
+    <a target='_blank' href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Ftruthsite.org%2Fpolitical-visualization%3F/us-senators.html&amp;title=Visualization+of+US+Senators">
+              <img src="http://truthsite.org/images/stumbleupon.png" />
+              <span>Stumble Upon</span>
+            </a>
+    </big>
+    </td>
+
+</tr>
+    </table>
+
+    <span style="font-size:130%">Back to <a href="http://waliberals.org">Washington Liberals</a></span>
+</body>
+</html>
