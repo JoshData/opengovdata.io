@@ -1,0 +1,128 @@
+markdown: kramdown
+pygments: true
+relative_permalinks: true
+title: "Open Government Data: The Book"
+meta_description: Principles, practices, and a history of the open government data movement.
+twitter_handle: '@JoshData'
+logo: /cover_small.jpeg
+toc:
+- link: /2014/introduction/
+  heading: "Civic Hacking and Government Data"
+  level: 0
+- link: /2014/civic-hacking/
+  heading: "Civic Hacking"
+  level: 1
+- link: /2014/history-the-movement/
+  heading: "History of the Movement"
+  level: 1
+- link: /2014/open-government-big-data-mediators/
+  heading: "Open Government, Big Data, and Mediators"
+  level: 1
+- link: /2014/civic-hacking-by-example/
+  heading: "Civic Hacking By Example"
+  level: 0
+- link: /2014/visualizing-metro-ridership/
+  heading: "Visualizing Metro Ridership"
+  level: 1
+- link: /2014/why-i-built-govtrackus/
+  heading: "Why I Built GovTrack.us"
+  level: 0
+- link: /2014/applications/
+  heading: "Applications for Open Government"
+  level: 0
+- link: /2014/sunlight-as-disinfectant/
+  heading: "Sunlight as a Disinfectant"
+  level: 1
+- link: /2014/democratizing-legal-information/
+  heading: "Democratizing Legal Information"
+  level: 1
+- link: /2014/informing-policy-decisions/
+  heading: "Informing Policy Decisions"
+  level: 1
+- link: /2014/consumer-products/
+  heading: "Consumer Products"
+  level: 1
+- link: /2014/legal-history/
+  heading: "A Brief Legal History of Open Government Data"
+  level: 0
+- link: /2014/ancient-origins-open-access-to-law/
+  heading: "Ancient Origins of Open Access to Law"
+  level: 1
+- link: /2014/the-us-freedom-information-act/
+  heading: "The U.S. Freedom of Information Act"
+  level: 1
+- link: /2014/the-21st-century-data-policy/
+  heading: "The 21st Century: Data Policy"
+  level: 1
+- link: /2014/principles/
+  heading: "14 Principles of Open Government Data"
+  level: 0
+- link: /2014/online-free-primary-timely-accessible/
+  heading: "Online and Free, Primary, Timely, Accessible (Principles 1--4)"
+  level: 1
+- link: /2014/analyzable-data-in-open-formats/
+  heading: "Analyzable Data in Open Formats (Principles 5 and 7)"
+  level: 1
+- link: /2014/no-discrimination-license-free/
+  heading: "No Discrimination and License-Free (Principles 6 and 8)"
+  level: 1
+- link: /2014/permanence-trust-provenance/
+  heading: "Publishing Data with Permanence, Trust, and Provenance (Principles 9--11)"
+  level: 1
+- link: /2014/public-input-public-review-coordination/
+  heading: "On The Openness Process (Public Input, Public Review, and Coordination; Principles 12--14)"
+  level: 1
+- link: /2014/data-quality/
+  heading: "Data Quality: Precision, Accuracy, and Cost"
+  level: 1
+- link: /2014/bulk-data-an-api/
+  heading: "Bulk Data or an API?"
+  level: 1
+- link: /2014/maturity-model-for-prioritization/
+  heading: "A Maturity Model for Prioritizing Open Government Data"
+  level: 1
+- link: /2014/case-studies/
+  heading: "Case Studies"
+  level: 0
+- link: /2014/us-federal-open-data-policy/
+  heading: "U.S. Federal Open Data Policy"
+  level: 1
+- link: /2014/transparency-participation-collaboration/
+  heading: "Transparency, Participation, and Collaboration"
+  level: 2
+- link: /2014/the-later-memorandums/
+  heading: "The Later Memorandums"
+  level: 2
+- link: /2014/house-disbursements/
+  heading: "House Disbursements"
+  level: 1
+- link: /2014/state-laws-the-district-columbia-code/
+  heading: "State Laws and the District of Columbia Code"
+  level: 1
+- link: /2014/paradoxes/
+  heading: "Paradoxes in Open Government"
+  level: 0
+- link: /2014/the-bhoomi-program-digital-divides/
+  heading: "The Bhoomi Program and Digital Divides"
+  level: 1
+- link: /2014/unintended-consequences/
+  heading: "Unintended Consequences and the Limits of Transparency"
+  level: 1
+- link: /2014/corruption/
+  heading: "Looking for Corruption in All the Wrong Places"
+  level: 1
+- link: /2014/conclusion/
+  heading: "Conclusion"
+  level: 1
+- link: /2014/example-language/
+  heading: "Example Policy Language"
+  level: 0
+- link: /2014/8-principles/
+  heading: "Open Government Data Definition: The 8 Principles of Open Government Data"
+  level: 1
+- link: /2014/open-knowledge-definition/
+  heading: "OKF's Open Knowledge Definition"
+  level: 1
+- link: /2014/new-hampshire-hb-418/
+  heading: "New Hampshire HB 418"
+  level: 1

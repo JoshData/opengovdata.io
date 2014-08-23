@@ -1,27 +1,282 @@
-@import url(http://fonts.googleapis.com/css?family=Gentium+Basic:400,400italic);
+/* GLOBAL STYLES */
 
-#book, #book h1, #book h2, #book h3, #book h4, #book h5 {
-	font-family: 'Gentium Basic', serif;	
-}
-
-#book {
-	font-size: 19px;
+body {
+	color: #333740;
+	font-family: Arial, sans-serif;
+	font-weight: 400;
 }
 
-#book p {
-	margin: 1.5em 0;
+header {
+	color: #333;
+	border-bottom: 1px solid #EEE;
+	font-family: "acuta", serif;
+	font-weight: bold;
+}
+	header .container {
+		padding: 15px 30px;
+	}
+	@media print {
+		header .container {
+			padding: 15px 15px;
+			border-bottom: 1px solid black;
+		}
+	}
+
+	header #logo {
+		float: left;
+		margin: 0 1em 0 0;
+		width: 32px;
+	}
+
+	header h1 {
+		margin: 0;
+		font-size: 24px;
+		font-family: "acuta", serif;
+	}
+		header h1 a, header h1 a:hover {
+			color: inherit;
+			text-decoration: none;
+		}
+
+	#author {
+		margin: 6px 0 0 1px;
+		font-size: 13px;
+		color: #777;
+	}
+		#author a {
+			color: inherit;
+		}
+
+	#also_as {
+		clear: both;
+		font-weight: 300;
+		border-top: 1px solid #EEE;
+		color: #666;
+		font-size: 12px;
+	}
+		#also_as .container {
+			padding: 4px 30px;
+		}
+
+#toc {
+	padding: 2em 2em 1em 15px;
+	font-size: 13px;
+}
+	@media print {
+		#toc { display: none; }
+	}
+	#toc .toc-heading {
+		padding-bottom: 4px;
+		color: #666;
+	}
+	#toc ul {
+		list-style: none;
+		margin-left: -6px;
+		padding: 0;
+	}
+	#toc li a, #toc li a:hover, #toc li a:active, #toc li a:visited {
+	}
+	#toc li a {
+		display: block;
+		padding: 6px;
+		text-decoration: none;
+		border-top: 1px solid #FFF;
+	}
+		#toc li.level-0 a {
+			margin-top: 6px;
+			padding-top: 10px;
+			border-top: 1px solid #DDD;
+			font-weight: bold;
+		}
+		#toc li.level-1 a {
+			padding-left: 16px;
+			font-size: 90%;
+		}
+		#toc li.level-2 a {
+			padding-left: 32px;
+			font-size: 82%;
+		}
+	#toc li a:hover {
+		background-color: #EEE;
+	}
+	#toc li.active a {
+		color: #F44;
+		font-weight: bold;
+	}
+
+#content {
+	font-size: 20px;
+	text-align: justify;
+	line-height: 140%;
+	color: #333;
+	font-family: "kepler-std", serif;
+	font-weight: 300;
+}
+	@media print {
+		#content {
+			font-size: 16px;
+			line-height: 130%;
+		}
+	}
+
+	#content h1, #content h2, #content h3 {
+		font-family: "acuta", serif;
+		font-weight: bold;
+		margin: 1.75em 0 1em 0;
+		line-height: 125%;
+		text-align: left;
+		color: #000;
+	}
+	#content h1 {
+		margin-top: 1em;
+	}
+
+	#content h1 {
+		font-size: 35px;
+	}
+
+	#content .subhead {
+		margin: -.75em 0 1.75em -3px;
+		font-style: italic;
+		color: #333740;
+	}
+
+	#content h2 {
+		font-size: 22px;
+	}
+
+	#content h3 {
+		font-family: Arial;
+		font-size: 17px;
+		font-weight: bold;
+	}
+
+	#content p.byline {
+		font-style: italic;
+		font-size: 90%;
+	}
+
+	#content p {
+		margin-bottom: 1.25em;
+	}
+	#content blockquote {
+		margin: 0 10px 1.25em 20px;
+		padding: 0 20px;
+	}
+	#content blockquote p {
+		font-size: 95%;
+		text-align: left;
+		line-height: 130%;
+		color: #444;
+		margin: .5em 0;
+	}
+	#content > table {
+		margin: 0 10px 1.25em 20px;
+		padding: 0 20px;
+	}
+
+	#content p a, #content p a:hover {
+		color: #321;
+		/*text-decoration: underline;*/
+		border-bottom: 1px solid #321;
+		text-decoration: none;
+	}
+
+	#content sup a {
+		font-size: 10px;
+		border-bottom: none;
+		color: black;
+	}
+	#content .footnotes:before {
+		display: block;
+		width: 25%;
+		margin-top: 2em;
+		padding-top: 2em;
+		border-top: 1px solid #999;
+		content: "";
+	}
+	.reversefootnote {
+		display: none;
+	}
+
+	#content .figure {
+		margin: 1.5em auto;
+		width: 95%;
+	}
+		#content .figure > span {
+			display: block;
+			margin-top: 1.5em;
+			font-style: italic;
+			font-size: 90%;
+			line-height: 130%;
+			text-align: left;
+		}
+
+	#content .footnotes {
+		font-size: 90%;
+		line-height: 120%;
+		text-align: left;
+	}
+		#content .footnotes a {
+			text-decoration: underline;
+			border: none;
+		}
+
+
+	#content .prev_next {
+		margin-top: 1em;
+		border-top: 1px solid #DDD;
+		padding-top: 1em;
+	}
+		#content .prev_next a {
+			border: none;
+			font-weight: bold;
+		}
+		#content .prev_next a:hover {
+			text-decoration: underline;
+		}
+		#content .prev_next .next {
+			float: right;
+		}
+
+footer {
+	padding: 15px;
 }
 
-#book .footnote {
-	margin: 0;
+	footer a {
+		color: #704433;
+	}
+
+/* INDEX PAGE */
+
+#index_page {
+	margin: 60px 20px;
 }
 
-#book .figure {
-	margin: 1em 0;
-	border-top: 1px solid #888;
-	border-bottom: 1px solid #888;
-	padding: 1em;
+#index_page h1 {
+	margin: 0 auto;
+	width: 75%;
+	color: #333740;
+	text-align: center;
+	line-height: 140%;
 }
-#book .figure p {
-	margin: 1em 0 0 0;
-}
+
+	#index_page div.subtitle {
+		margin: 40px auto 0 auto;
+		width: 75%;
+		padding: .33em;
+		border-top: 1px solid #888;
+		border-bottom: 1px solid #888;
+		color: #333740;
+		text-align: center;
+	}
+
+	#index_page .begin-reading {
+		display: block;
+		margin-top: 30px;
+		margin-bottom: 50px;
+		text-align: center;
+		font-weight: bold;
+		color: #6A4433;
+	}
+
