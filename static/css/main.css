@@ -106,12 +106,24 @@ header {
 
 #content {
 	font-size: 20px;
-	text-align: justify;
 	line-height: 140%;
 	color: #333;
 	font-family: "kepler-std", serif;
 	font-weight: 300;
 }
+	@media screen and (min-width: 1024px) {
+		#content p {
+			/* The text runs at these window widths are way too long,
+			   but if we're going to do it we might as well justify,
+			   and if we justify we ought to turn on hyphenation
+			   even though it's not well supported. (Hyphenation
+			   requires lang='en' somewhere in the HTML.)*/
+			text-align: justify;
+			hyphens: auto;
+			-webkit-hyphens: auto; /* not actually supported? */
+	    	-moz-hyphens: auto;
+		}
+	}
 	@media print {
 		#content {
 			font-size: 16px;

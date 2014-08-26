@@ -5,6 +5,7 @@ title: "Open Government Data: The Book"
 meta_description: Principles, practices, and a history of the open government data movement.
 twitter_handle: '@JoshData'
 logo: /cover_small.jpeg
+google_analytics_id: "UA-1190841-3"
 toc:
 - link: /2014/introduction/
   heading: "Civic Hacking and Government Data"

@@ -51,6 +51,6 @@ Precision and accuracy are both intertwined with **<span>cost</span>**. It may b
 
 When the cost of high precision and accuracy becomes prohibitive, data intended to expand government transparency becomes of limited value. Data quality is the suitability of data for a purpose taking into account the cost of obtaining acceptable levels of precision and accuracy. Figure 1 shows various data formats on axes of accuracy and precision.
 
-![image](/figures/dataquality.pdf) <span>Figure 1. This figure shows where different data formats fall on axes of high and low precision and high and low accuracy.</span>
+![image](/figures/dataquality.png) <span>Figure 1. This figure shows where different data formats fall on axes of high and low precision and high and low accuracy.</span>
 
 

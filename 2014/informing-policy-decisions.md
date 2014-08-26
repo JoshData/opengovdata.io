@@ -8,7 +8,7 @@ title: "Informing Policy Decisions"
 Informing Policy Decisions
 ==========================
 
-By Joshua Tauberer. April 2012.
+By Joshua Tauberer. April 2012; revised August 2014.
 {: .byline }
 
 

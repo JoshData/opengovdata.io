@@ -40,7 +40,7 @@ A maturity model
 
 The chart in Figure 1 that I have developed provides a road map for deciding between the many aspects of open government data.
 
-![image](/figures/ogdmatmodel1.pdf) <span>Figure 1. The open government data maturity model. Start at the top-left and go toward the bottom-right.</span>
+![image](/figures/ogdmatmodel1.png) <span>Figure 1. The open government data maturity model. Start at the top-left and go toward the bottom-right.</span>
 
 Down the rows on the left side of the chart are the different technological strategies of open government data: freedom of information, using the Internet, principles of openness, structured data, global IDs, APIs, and linked data (the semantic web). Across the columns at the top are the different sorts of public information governments produce: laws, service-related data, operational data such as rule-making dockets and spending records, and finally a catch-all column for other public data (sometimes produced incidentally to government functions).
 
@@ -142,7 +142,7 @@ Last is the catch-all column “Public Data.” This is, for instance, some sort
 
 [^4]: URLs are a type of “dereferencable” identifier because they can take you from *reference* to *referent*, i.e. to a document describing what the identifier identifies.
 
-[^5]: The <span>Australian Governments Open Access and Licensing Framework</span> makes an API a core part of data access, placing its recommendation under the heading “open query” and before “open bulk supply,” which I believe is a poor strategy.[^11]
+[^5]: The <span>Australian Governments Open Access and Licensing Framework</span> makes an API a core part of data access, placing its recommendation under the heading “open query” and before “open bulk supply,” which I believe is a poor strategy. <http://www.ausgoal.gov.au/ausgoal-qualities-of-open-data>, accessed July 10, 2011.
 
 [^6]: Tim Berners-Lee. June 24, 2009. [Putting Government Data Online](http://www.w3.org/DesignIssues/GovData).
 

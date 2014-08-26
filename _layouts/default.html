@@ -31,7 +31,7 @@
 
         <script src="/static/libs/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
-    <body>
+    <body lang="en">
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="/http://browsehappy.com/">upgrade your browser</a> or <a href="/http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
@@ -116,7 +116,7 @@
         <script src="/static/js/main.js"></script>
 
         <script>
-        	var ga_account_id = '{% include google-analytics-id.html %}';
+        	var ga_account_id = '{{ site.google_analytics_id }}';
         	if (/^UA-\d+/.test(ga_account_id)) {
 	            var _gaq=[['_setAccount',ga_account_id],['_trackPageview']];
 	            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
