@@ -120,7 +120,7 @@ The Department of Health and Human Services stood out as one of the few federal 
 
 But even as the White House’s interest in transparency was soon replaced by an interest in using open data to spur economic activity, Data.gov spurred a world-wide movement of data.gov-style catalogs in cities and countries throughout the world[^25], some of them better than our own here. [Data.gov.uk](http://data.gov.uk/), for one, has innovated in the application of Semantic Web technology to establish connections between datasets from different agencies. The Open Government Partnership, launched in 2011, is a multi-government effort to advance parallel transparency reforms in participating countries, focusing on disclosure, citizen participation, integrity, and technology.[^26]
 
-At the municipal level, strong open data or civic hacking initiatives have been under way in <span>San Francisco</span>, <span>Chicago</span>[^27], <span>Boston</span>[^28], and <span>New York City</span>[^29]. Cities starting with Chicago (in 2011)[^30], Philadelphia (in 2012)[^31], San Francisco (in 2012)[^32], and Baltimore (in 2013)[^33] have been creating new Chief Data Officer roles spearheading open data and sometimes city analytics. For a living list of U.S. open data policies, see Sunlight Foundation’s [list of current and emerging policies at the state and local level](http://sunlightfoundation.com/policy/opendatamap/).
+At the municipal level, strong open data or civic hacking initiatives have been under way in <span>San Francisco</span>, <span>Chicago</span>[^27], <span>Boston</span>[^28], and <span>New York City</span>[^29]. Cities have been creating new Chief Data Officer roles spearheading open data and sometimes city analytics, starting with Chicago (in 2011)[^30], Philadelphia (in 2012)[^31], San Francisco (in 2012)[^32], Baltimore (in 2013)[^33], the District of Columbia (in 2014)[^34], and Los Angeles (in 2014)[^35]. For a living list of U.S. open data policies, see Sunlight Foundation’s [list of current and emerging policies at the state and local level](http://sunlightfoundation.com/policy/opendatamap/).
 
 [^1]: Harlan Yu. 2012. [Designing Software to Shape Open Government Policy](http://www.cs.princeton.edu/{\textasciitilde}harlanyu/papers/harlanyu-dissertation.pdf). Doctoral dissertation, Princeton University. Page 114–117 (open government), 120–122.
 
@@ -188,5 +188,9 @@ At the municipal level, strong open data or civic hacking initiatives have been 
 [^32]: Noelle Knell. October 15, 2012. [San Francisco to Hire Chief Data Officer](http://www.govtech.com/pcio/San-Francisco-to-Hire-Chief-Data-Officer.html), Government Technology.
 
 [^33]: Colin Wood. June 5, 2013. [Baltimore Fills New Chief Data Officer Role](http://www.govtech.com/policy-management/Baltimore-Fills-New-Chief-Data-Officer-Role.html), Government Technology.
+
+[^34]: [OCTO Launches New “Open Data” Technology Program](http://octo.dc.gov/release/octo-launches-new-%E2%80%9Copen-data%E2%80%9D-technology-program)
+
+[^35]: [Mayor Garcetti Appoints Abhi Nemani as City’s First Chief Data Officer](http://www.lamayor.org/mayor_garcetti_appoints_abhi_nemani_as_city_s_first_chief_data_officer)
 
 

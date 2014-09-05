@@ -93,13 +93,13 @@ Here in the U.S. we have unusually, if not uniquely, strong norms about the gove
 Making data license-free
 ------------------------
 
-In the joint statement “Best-Practices Language for Making Data ‘License-Free.’ ”[^18], my co-authors and I recommended that governments adopt specific language to put works into the world-wide public domain. For works created by federal government contractors, for instance, we recommended the following language be applied to the data:
+In the joint statement [“Best-Practices Language for Making Data ‘License-Free.’ ”](http://theunitedstates.io/licensing/), my co-authors and I recommended that governments adopt specific language to put works into the world-wide public domain. For works created by federal government contractors, for instance, we recommended the following language be applied to the data:
 
 > This work was created through a government contract which assigned copyright to [the United States Government or Agency name]. [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
 The [Creative Commons CC0](http://creativecommons.org/about/cc0) is a universal legal instrument that can be used to waive world-wide intellectual property rights in a work. Unlike the Creative Commons Attribution license, called CC-BY, the CC0 is not a license but rather a *waiver* of copyright and related rights. In jurisdictions in which a waiver is not possible, the CC0 acts as a license that grants unlimited rights in perpetuity.
 
-Our recommendations also cover federal government works, primary legal materials, and works that mix government and non-government authors. Our suggested language has been used by the Department of Health and Human Services’s ckanext-datajson project[^19], the Consumer Financial Protection Bureau’s qu project[^20], and a White House report[^21]. OpenFDA’s API terms of use agreement at <https://open.fda.gov/terms/> is a rare example of an agreement that does not capriciously add restrictions on use.
+Our recommendations also cover federal government works, primary legal materials, and works that mix government and non-government authors. Our suggested language has been used by the Department of Health and Human Services’s ckanext-datajson project[^18], the Consumer Financial Protection Bureau’s qu project[^19], and a White House report[^20]. OpenFDA’s API terms of use agreement at <https://open.fda.gov/terms/> is a rare example of an agreement that does not capriciously add restrictions on use.
 
 [^1]: Principle 7 was noted in [Analyzable Data in Open Formats](/2014/analyzable-data-in-open-formats/).
 
@@ -135,12 +135,10 @@ Our recommendations also cover federal government works, primary legal materials
 
 [^17]: <http://press.take88.com/wp-content/uploads/2010/03/08-205.pdf>, page 6. Unfortunately the Court dismissed the burden in their reasoning that electioneering disclosures would be reasonable.
 
-[^18]: http://theunitedstates.io/licensing/
+[^18]: Because I was the contractor for HHS who built that project! https://github.com/HHS/ckanext-datajson
 
-[^19]: Because I was the contractor for HHS who built that project! https://github.com/HHS/ckanext-datajson
+[^19]: https://github.com/cfpb/qu
 
-[^20]: https://github.com/cfpb/qu
-
-[^21]: http://www.whitehouse.gov/sites/default/files/microsites/ostp/us\_open\_data\_action\_plan.pdf
+[^20]: http://www.whitehouse.gov/sites/default/files/microsites/ostp/us\_open\_data\_action\_plan.pdf
 
 
