@@ -8,7 +8,7 @@ title: "Bulk Data or an API?"
 Bulk Data or an API?
 ====================
 
-By Joshua Tauberer. April 2012; revised August 2014.
+By Joshua Tauberer. August 2014.
 {: .byline }
 
 
