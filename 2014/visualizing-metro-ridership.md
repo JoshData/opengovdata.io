@@ -90,6 +90,8 @@ All this just to prepare the first data file for use, and we have two files to d
 
 The second data file we’ll use has geographic coordinates of the transit stations. The final step of normalization involved some real manual labor to match stations in the historical data (our spreadsheet) to records in the GTFS data (in stops.txt). It was important to do this by hand because there were no consistent patterns in how stations were named across the two files. Some differences in names were:
 
+[h]
+
 |:--|:--|
 |Historical File|GTFS File|
 |Gallery Place-Chinatown|Gallery Place Chinatown Metro Station|

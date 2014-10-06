@@ -12,7 +12,7 @@ By Joshua Tauberer. April 2012; revised August 2014.
 {: .byline }
 
 
-The remaining two principles[^1] from the 8 Principles of Open Government Data state that the government may not restrict use of the data capriciously. The first of the two principles addresses this on the substance:
+The remaining two principles[^1] from the 8 Principles of Open Government Data state that the government may not restrict use of the data capriciously:
 
 (6)  “**Non-discriminatory**: Data are available to anyone, with no requirement of registration.”
 -----------------------------------------------------------------------------------------------
@@ -62,17 +62,17 @@ In many European countries and at the state-level in the United States, the gove
 
 ### Licenses that violate the principle
 
-Still, even in the United States, government data is remarkably restricted. Many datasets posted by U.S. government agencies, especially when posted as an API, are locked behind terms of use agreements (which is essentially a license by another name). <span>Data.gov</span>, which is a catalog of U.S. government datasets, imposes a terms-of-use agreement on all its data sets. It read, “By accessing the data catalogs, you agree to the Data Policy,”[^9] and the Data Policy required users of the data to include a disclaimer in their applications: “Finally, users must clearly state that ‘Data.gov and the Federal Government cannot vouch for the data or analyses derived from these data after the data have been retrieved from Data.gov.’ ”[^10]
-
-The SAMHSA agreement mentioned above also states:
+Still, even in the United States, government data is remarkably restricted. Many datasets posted by U.S. government agencies, especially when posted as an API, are locked behind terms of use agreements (which is essentially a license by another name). The SAMHSA agreement mentioned above also states:
 
 > You agree to reference the recommended bibliographic citation in any of your publications that use SAMHSA data.
 
-And a dataset from the Centers for Medicare & Medicaid Services (CMS) requires data users to agree to:
+And a dataset from the Centers for Medicare & Medicaid Services (CMS) requires data users to agree that:
 
-> The user may not present data that has been altered in any way as CMS data.[^11]
+> The user may not present data that has been altered in any way as CMS data.[^9]
 
 Attribution, non-modification, and waiving the right to sue the government are extremely common requirements.
+
+<span>Data.gov</span>, which is a catalog of U.S. government datasets, originally imposed a terms-of-use agreement on all its data sets. It read, “By accessing the data catalogs, you agree to the Data Policy,”[^10] and until 2014 its Data Policy required users of the data to include a disclaimer in their applications: “Finally, users must clearly state that ‘Data.gov and the Federal Government cannot vouch for the data or analyses derived from these data after the data have been retrieved from Data.gov.’ ”[^11]
 
 The 2003 EU PSI Directive said that licenses covering government data in the European Union may consider “liability, the proper use of documents, guaranteeing non-alteration and the acknowledgment of source.” The <span>UK Open Data Whitepaper (2012)</span> requires government data to use an “open license which enables re-use, including commercial re-use,” but the UK Open Government License[^12] requires data users to “acknowledge the source of the Information [and] provide a link to this licence.” In the first version of the license users were required to not “mislead others”[^13] (but this requirement was removed from the license in 2013[^14]).
 
@@ -93,13 +93,13 @@ Here in the U.S. we have unusually, if not uniquely, strong norms about the gove
 Making data license-free
 ------------------------
 
-In the joint statement [“Best-Practices Language for Making Data ‘License-Free.’ ”](http://theunitedstates.io/licensing/), my co-authors and I recommended that governments adopt specific language to put works into the world-wide public domain. For works created by federal government contractors, for instance, we recommended the following language be applied to the data:
+In the joint statement [“Best-Practices Language for Making Data ‘License-Free’ ”](http://theunitedstates.io/licensing/), my co-authors and I recommended that governments adopt specific language to put works into the world-wide public domain. For works created by federal government contractors, for instance, we recommended the following language be applied to the data:
 
 > This work was created through a government contract which assigned copyright to [the United States Government or Agency name]. [Agency Name] waives copyright and related rights in the work worldwide through the CC0 1.0 Universal Public Domain Dedication (which can be found at http://creativecommons.org/publicdomain/zero/1.0/).
 
 The [Creative Commons CC0](http://creativecommons.org/about/cc0) is a universal legal instrument that can be used to waive world-wide intellectual property rights in a work. Unlike the Creative Commons Attribution license, called CC-BY, the CC0 is not a license but rather a *waiver* of copyright and related rights. In jurisdictions in which a waiver is not possible, the CC0 acts as a license that grants unlimited rights in perpetuity.
 
-Our recommendations also cover federal government works, primary legal materials, and works that mix government and non-government authors. Our suggested language has been used by the Department of Health and Human Services’s ckanext-datajson project[^18], the Consumer Financial Protection Bureau’s qu project[^19], and a White House report[^20]. OpenFDA’s API terms of use agreement at <https://open.fda.gov/terms/> is a rare example of an agreement that does not capriciously add restrictions on use.
+Our recommendations also cover federal government works, primary legal materials, and works that mix government and non-government authors. Our suggested language has been used by the Department of Health and Human Services’s ckanext-datajson project[^18], the Consumer Financial Protection Bureau’s qu project[^19], and a White House report[^20]. OpenFDA’s API [terms of use agreement](https://open.fda.gov/terms/) is a rare example of an agreement that does not capriciously add restrictions on use.
 
 [^1]: Principle 7 was noted in [Analyzable Data in Open Formats](/2014/analyzable-data-in-open-formats/).
 
@@ -117,11 +117,11 @@ Our recommendations also cover federal government works, primary legal materials
 
 [^8]: C.J. Angelopoulos writing to the OKFN’s open-government mail list on Feb. 7, 2011.
 
-[^9]: <http://explore.data.gov/catalog/raw/>, accessed July 7, 2011
+[^9]: The “CMS Data Disclaimer - User Agreement” linked from the dataset named [“Part B National Summary Data File - CY2001”](https://healthdata.gov/data/dataset/part-b-national-summary-data-file-cy2007), accessed May 2, 2014.
 
-[^10]: <http://www.data.gov/datapolicy>, accessed July 7, 2011.
+[^10]: <http://explore.data.gov/catalog/raw/>, accessed July 7, 2011
 
-[^11]: The “CMS Data Disclaimer - User Agreement” linked from the dataset named [“Part B National Summary Data File - CY2001”](https://healthdata.gov/data/dataset/part-b-national-summary-data-file-cy2007), accessed May 2, 2014.
+[^11]: Originally at <http://www.data.gov/datapolicy>, accessed July 7, 2011, and removed on Sept. 25, 2014, see <https://github.com/GSA/data.gov/issues/300#issuecomment-56883473>.
 
 [^12]: <http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/>
 

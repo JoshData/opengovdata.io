@@ -12,7 +12,7 @@ By Joshua Tauberer. April 2012; revised August 2014.
 {: .byline }
 
 
-Is open government data the synthesis of “open government” and “data”, “open” an “government data”, or something else entirely?[^1]
+Is open government data the synthesis of “open government” and “data”, “open” and “government data”, or something else entirely?[^1]
 
 If “open government data” means data about “open government”, then open government data would be for accountability, innovation, participatory policy-making, access to the law, and so on. (I discussed the meaning of “open government” in [History of the Movement](/2014/history-the-movement/).) This is a part of what is meant by open government data. A big tent approach to open government data is the only way to accurately describe the open government data community, and the best strategy to strengthen it.[^2] But this approach to understanding open government data is still missing an essential element: Open government data must also be “open.”
 
@@ -20,7 +20,7 @@ So is open government data instead the application of “open” to “governmen
 
 Harlan Yu and David Robinson [suggested](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2012489)[^3] mapping the realm of government data on two dimension. The first dimension ranges from transparency (i.e. data *about* government) to service deliverability (including data *from* the government). The second dimension ranges from “inert” data such as PDFs to “adaptable” data, by which they mean machine processable data and APIs. Classic open government — e.g. the Freedom of Information Act — would fall mostly in Yu and Robinson’s transparency–inert quadrant, while Beth Noveck’s open innovation goals (e.g. Peer-to-Patent, see [Consumer Products](/2014/consumer-products/)) would fall mostly in their service delivery–adaptable quadrant. All of this might be open government data.
 
-This is a start, but I don’t think this is going to lead us to the right definition of open government data either. I have, and I think we all should have, higher standards for government openness than openness elsewhere, such as the requirements for open source software in private sector. The Open Knowledge Foundation’s definition of open — the <span>Open Definition</span>[^4] reproduced in [Open Knowledge Definition](/2014/open-knowledge-definition/) — is simply too lax for government. And while Yu and Robinson’s “inert” data may be *available*, it is not open for *analysis*.
+This is a start, but I don’t think this is going to lead us to the right definition of open government data, either. I have, and I think we all should have, higher standards for government openness than openness elsewhere, such as the requirements for open source software in the private sector. The Open Knowledge Foundation’s definition of open — the <span>Open Definition</span>[^4] reproduced in [Open Knowledge Definition](/2014/open-knowledge-definition/) — is simply too lax for government. And while Yu and Robinson’s “inert” data may be *available*, it is not open for *analysis*.
 
 The purpose of this chapter is to outline the essential qualities of that higher standard: what makes government data open government data. For a short version, open government data is four “A”s: accessible[^5], accurate, analyzable, and authentic.[^6]
 

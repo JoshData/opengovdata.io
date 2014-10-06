@@ -68,7 +68,7 @@ The earliest of the petitions still “pending response,” according to the Whi
 
 ### Collaboration
 
-The benefit of applying technology to participating and collaboration is in making government smarter, policy better, and citizens motivated, according to Noveck.[^17] But the flagship project for the collaboration component of the Directive never came to be.
+The benefit of applying technology to participation and collaboration is in making government smarter, policy better, and citizens motivated, according to Noveck.[^17] But the flagship project for the collaboration component of the Directive never came to be.
 
 Initially planned as <span>ExpertNet</span>, it was a program or process to connect experts in the public with public servants, similar to Noveck’s Peer-to-Patent. The White House canned the project without any part completed in 2013.[^18] Noveck later tweeted me, “Expernet was process not application. Software exists. Hard part is getting people to ask questions,”[^19] meaning ExpertNet was a project about transforming government culture, not in developing new technology or launching a new product. This is true of *all* aspects of open government. The cultural change is always the hardest.
 
@@ -92,7 +92,7 @@ The idea behind these challenges is that they are cheaper or more effective at p
 
 Whether challenges are cost effective, I don’t think this is known. Past challenges are difficult to survey for effectiveness: determining whether the contest winners’ solutions were valuable to an agency’s mission may be impossible to measure. In some cases, such as the microgrid challenge, I suspect challenges are merely displacing or are a relabeling of existing funding mechanisms.
 
-And as they relate to open government, challenges should be not only be generating ideas, or even generating working solutions, but they must also be involving the public in the government’s implementation of those ideas. Many successful challenges demonstrate the public’s ability to innovate but not the government’s ability to collaborate, except in so far as the government writes the check. A study of Challenge.gov through 2012 showed that challenges had focused on collecting feedback and outreach:
+And as they relate to open government, challenges should not only be generating ideas, or even generating working solutions, but they must also be involving the public in the government’s implementation of those ideas. Many successful challenges demonstrate the public’s ability to innovate but not the government’s ability to collaborate, except in so far as the government writes the check. A study of Challenge.gov through 2012 showed that challenges had focused on collecting feedback and outreach:
 
 > [A]gencies mainly use Challenge.gov for so-called “low-hanging fruits”, those projects which are easy to outsource and implement such as information and education campaigns that help them better understand how to improve their service delivery, but not necessarily the service itself. . . . Challenge.gov [is also used] as an outreach mechanism to educate large parts of the citizenry that might not be reached through the traditional channels.[^23]
 
