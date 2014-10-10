@@ -17,7 +17,7 @@ The above eleven principles essentially define open government data in its ideal
 (12)  **Public input:** The public is in the best position to determine what information technologies will be best suited for the applications the public intends to create for itself.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Public input is crucial to disseminating information in such a way that it has value. It is so crucial that this is principle number one in the <span>UK Open Data Whitepaper (2012)</span>. As the <span>Association of Government Accountants</span>’ principles[^1] state, “Understand the information that people want, and deliver it. They may not be sure what they need, so help them define it.”
+Public input is crucial to disseminating information in such a way that it has value. It is so crucial that this is principle number one in the [UK Open Data Whitepaper (2012)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78946/CM8353_acc.pdf). As the <span>Association of Government Accountants</span>’ principles[^1] state, “Understand the information that people want, and deliver it. They may not be sure what they need, so help them define it.”
 
 (13)  **Public review**
 ---------------------
@@ -29,7 +29,7 @@ The Association of Government Accountants’ principles also note that not only 
 (14)  **Interagency coordination**
 --------------------------------
 
-Interoperability makes data more valuable by making it easier to derive new uses from combinations of data. To the extent two data sets refer to the same kinds of things, the creators of the data sets should strive to make them interoperable. This may mean developing a shared data standard, or adopting an existing standard, possibly through coordination within government across agencies. The use of open data formats often, but not always, entails interoperability. However, we recognize that interoperability can come at a cost. Governments must weigh the advantages of distributing non-interoperable data quickly against the net gain of investing in interoperability and delaying a release of the data. (This is also principle 6 in the <span>UK Open Data Whitepaper (2012)</span>.)
+Interoperability makes data more valuable by making it easier to derive new uses from combinations of data. To the extent two data sets refer to the same kinds of things, the creators of the data sets should strive to make them interoperable. This may mean developing a shared data standard, or adopting an existing standard, possibly through coordination within government across agencies. The use of open data formats often, but not always, entails interoperability. However, we recognize that interoperability can come at a cost. Governments must weigh the advantages of distributing non-interoperable data quickly against the net gain of investing in interoperability and delaying a release of the data. (This is also principle 6 in the [UK Open Data Whitepaper (2012)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78946/CM8353_acc.pdf).)
 
 (Principles 16 and 17 of the first edition have been removed in the second edition of this book, and the old Principle 10 was merged with Principle 5.)
 

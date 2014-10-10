@@ -19,7 +19,7 @@ Data should be analyzable and in non-proprietary formats.
 
 The most critical value of open government data comes from the public’s ability to carry out its own analyses of raw data, rather than relying on a government’s own analysis. The principle that open government data is analyzable is truly the core of open government data. It has been stated in many different ways:
 
-In the original words of the 8 Principles: “5. Machine processable: Data are reasonably structured to allow automated processing.” In the <span>UK Open Data Whitepaper (2012)</span>: “(2) Public data will be published in re-usable, machine-readable form.” In [Sunlight Foundation’s Open Data Policy Guidelines (2014)](http://sunlightfoundation.com/opendataguidelines): “(8) Mandate Data Formats For Maximal Technical Access.”
+In the original words of the 8 Principles: “5. Machine processable: Data are reasonably structured to allow automated processing.” In the [UK Open Data Whitepaper (2012)](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/78946/CM8353_acc.pdf): “(2) Public data will be published in re-usable, machine-readable form.” In [Sunlight Foundation’s Open Data Policy Guidelines (2014)](http://sunlightfoundation.com/opendataguidelines): “(8) Mandate Data Formats For Maximal Technical Access.”
 
 The <span>Association of Computing Machinery</span>’s [Recommendation on Open Government](http://www.acm.org/public-policy/open-government) (February 2009) stated the same principle another way: “Data published by the government should be in formats and approaches that promote analysis and reuse of that data.”
 
