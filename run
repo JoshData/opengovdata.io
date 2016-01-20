@@ -1,1 +1,1 @@
-supervisor -e html,md,js,css -i _site/ -x /usr/bin/jekyll -- --server 8000 --serve
+supervisor -e html,md,js,css -i _site/ -x jekyll -- serve -P 8000
