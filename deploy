@@ -1,0 +1,2 @@
+jekyll build
+rsync -avz _site/ box:/home/user-data/www/opengovdata.io/
