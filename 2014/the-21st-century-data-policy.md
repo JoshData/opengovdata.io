@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /the-21st-century-data-policy/
+
 page_previous: /2014/the-us-freedom-information-act/
 page_next: /2014/principles/
 title: "The 21st Century: Data Policy"

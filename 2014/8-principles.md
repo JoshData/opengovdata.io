@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /8-principles/
+
 page_previous: /2014/example-language/
 page_next: /2014/open-knowledge-definition/
 title: "Open Government Data Definition: The 8 Principles of Open Government Data"

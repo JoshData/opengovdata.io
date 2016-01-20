@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /the-us-freedom-information-act/
+
 page_previous: /2014/ancient-origins-open-access-to-law/
 page_next: /2014/the-21st-century-data-policy/
 title: "The U.S. Freedom of Information Act"

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /sunlight-as-disinfectant/
+
 page_previous: /2014/applications/
 page_next: /2014/democratizing-legal-information/
 title: "Sunlight as a Disinfectant"

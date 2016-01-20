@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /maturity-model-for-prioritization/
+
 page_previous: /2014/bulk-data-an-api/
 page_next: /2014/case-studies/
 title: "A Maturity Model for Prioritizing Open Government Data"

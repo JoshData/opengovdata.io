@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /example-language/
+
 page_previous: /2014/conclusion/
 page_next: /2014/8-principles/
 title: "Example Policy Language"

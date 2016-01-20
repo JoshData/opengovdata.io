@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /conclusion/
+
 page_previous: /2014/corruption/
 page_next: /2014/example-language/
 title: "Conclusion"

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /state-laws-the-district-columbia-code/
+
 page_previous: /2014/house-disbursements/
 page_next: /2014/paradoxes/
 title: "State Laws and the District of Columbia Code"

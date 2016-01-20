@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /house-disbursements/
+
 page_previous: /2014/the-later-memorandums/
 page_next: /2014/state-laws-the-district-columbia-code/
 title: "House Disbursements"

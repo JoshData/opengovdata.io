@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /informing-policy-decisions/
+
 page_previous: /2014/democratizing-legal-information/
 page_next: /2014/consumer-products/
 title: "Informing Policy Decisions"

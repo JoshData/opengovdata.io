@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /ancient-origins-open-access-to-law/
+
 page_previous: /2014/legal-history/
 page_next: /2014/the-us-freedom-information-act/
 title: "Ancient Origins of Open Access to Law"

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /visualizing-metro-ridership/
+
 page_previous: /2014/civic-hacking-by-example/
 page_next: /2014/why-i-built-govtrackus/
 title: "Visualizing Metro Ridership"

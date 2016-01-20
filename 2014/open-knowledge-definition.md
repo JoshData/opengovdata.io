@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /open-knowledge-definition/
+
 page_previous: /2014/8-principles/
 page_next: /2014/new-hampshire-hb-418/
 title: "OKF's Open Knowledge Definition"

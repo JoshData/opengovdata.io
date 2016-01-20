@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /unintended-consequences/
+
 page_previous: /2014/the-bhoomi-program-digital-divides/
 page_next: /2014/corruption/
 title: "Unintended Consequences and the Limits of Transparency"

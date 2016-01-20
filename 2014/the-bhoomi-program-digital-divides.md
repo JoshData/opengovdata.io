@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /the-bhoomi-program-digital-divides/
+
 page_previous: /2014/paradoxes/
 page_next: /2014/unintended-consequences/
 title: "The Bhoomi Program and Digital Divides"

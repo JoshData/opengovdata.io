@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /no-discrimination-license-free-principles-6-8/
+
 page_previous: /2014/analyzable-data-in-open-formats-principles-5-7/
 page_next: /2014/publishing-data-with-permanence-trust-provenance-principles-9-11/
 title: "No Discrimination and License-Free (Principles 6 and 8)"

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /us-federal-open-data-policy/
+
 page_previous: /2014/case-studies/
 page_next: /2014/transparency-participation-collaboration/
 title: "U.S. Federal Open Data Policy"

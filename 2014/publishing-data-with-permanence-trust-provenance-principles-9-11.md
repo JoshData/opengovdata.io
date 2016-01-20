@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /publishing-data-with-permanence-trust-provenance-principles-9-11/
+
 page_previous: /2014/no-discrimination-license-free-principles-6-8/
 page_next: /2014/on-openness-process-public-input-public-review-coordination-principles-12-14/
 title: "Publishing Data with Permanence, Trust, and Provenance (Principles 9--11)"

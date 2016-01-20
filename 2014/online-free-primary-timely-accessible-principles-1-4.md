@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /online-free-primary-timely-accessible-principles-1-4/
+
 page_previous: /2014/principles/
 page_next: /2014/analyzable-data-in-open-formats-principles-5-7/
 title: "Online and Free, Primary, Timely, Accessible (Principles 1--4)"

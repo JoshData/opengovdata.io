@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /civic-hacking/
+
 page_previous: /2014/introduction/
 page_next: /2014/history-the-movement/
 title: "Civic Hacking"

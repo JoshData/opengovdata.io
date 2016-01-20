@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /data-quality/
+
 page_previous: /2014/public-input-public-review-coordination/
 page_next: /2014/bulk-data-an-api/
 title: "Data Quality: Precision, Accuracy, and Cost"

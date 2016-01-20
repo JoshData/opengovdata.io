@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /why-i-built-govtrackus/
+
 page_previous: /2014/visualizing-metro-ridership/
 page_next: /2014/applications/
 title: "Why I Built GovTrack.us"

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /paradoxes/
+
 page_previous: /2014/state-laws-the-district-columbia-code/
 page_next: /2014/the-bhoomi-program-digital-divides/
 title: "Paradoxes in Open Government"

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /on-openness-process-public-input-public-review-coordination-principles-12-14/
+
 page_previous: /2014/publishing-data-with-permanence-trust-provenance-principles-9-11/
 page_next: /2014/data-quality/
 title: "On The Openness Process (Public Input, Public Review, and Coordination; Principles 12--14)"

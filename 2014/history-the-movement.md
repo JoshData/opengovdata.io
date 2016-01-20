@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /history-the-movement/
+
 page_previous: /2014/civic-hacking/
 page_next: /2014/open-government-big-data-mediators/
 title: "History of the Movement"

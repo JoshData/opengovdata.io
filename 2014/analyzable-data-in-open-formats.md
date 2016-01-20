@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /analyzable-data-in-open-formats/
+
 page_previous: /2014/online-free-primary-timely-accessible/
 page_next: /2014/no-discrimination-license-free/
 title: "Analyzable Data in Open Formats (Principles 5 and 7)"
