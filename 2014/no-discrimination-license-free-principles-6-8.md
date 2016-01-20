@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /no-discrimination-license-free-principles-6-8/
 page_previous: /2014/analyzable-data-in-open-formats-principles-5-7/

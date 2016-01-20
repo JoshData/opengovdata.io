@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /sunlight-as-disinfectant/
 page_previous: /2014/applications/

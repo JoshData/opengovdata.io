@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /the-21st-century-data-policy/
 page_previous: /2014/the-us-freedom-information-act/

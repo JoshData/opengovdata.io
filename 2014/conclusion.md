@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /conclusion/
 page_previous: /2014/corruption/

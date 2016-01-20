@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /corruption/
 page_previous: /2014/unintended-consequences/

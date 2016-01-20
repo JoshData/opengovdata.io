@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /transparency-participation-collaboration/
 page_previous: /2014/us-federal-open-data-policy/

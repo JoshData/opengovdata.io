@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /civic-hacking-by-example/
 page_previous: /2014/open-government-big-data-mediators/

@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /ancient-origins-open-access-to-law/
 page_previous: /2014/legal-history/

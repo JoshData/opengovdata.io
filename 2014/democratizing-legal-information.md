@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /democratizing-legal-information/
 page_previous: /2014/sunlight-as-disinfectant/

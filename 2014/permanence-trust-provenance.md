@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /permanence-trust-provenance/
 page_previous: /2014/no-discrimination-license-free/

@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /8-principles/
 page_previous: /2014/example-language/

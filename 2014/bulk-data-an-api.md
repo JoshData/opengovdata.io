@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /bulk-data-an-api/
 page_previous: /2014/data-quality/

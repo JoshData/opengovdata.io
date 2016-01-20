@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /on-openness-process-public-input-public-review-coordination-principles-12-14/
 page_previous: /2014/publishing-data-with-permanence-trust-provenance-principles-9-11/

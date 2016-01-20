@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /us-federal-open-data-policy/
 page_previous: /2014/case-studies/

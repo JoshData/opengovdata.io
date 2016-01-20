@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /no-discrimination-license-free/
 page_previous: /2014/analyzable-data-in-open-formats/

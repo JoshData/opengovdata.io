@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /analyzable-data-in-open-formats/
 page_previous: /2014/online-free-primary-timely-accessible/

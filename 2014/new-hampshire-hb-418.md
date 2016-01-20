@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /new-hampshire-hb-418/
 page_previous: /2014/open-knowledge-definition/

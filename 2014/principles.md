@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /principles/
 page_previous: /2014/the-21st-century-data-policy/

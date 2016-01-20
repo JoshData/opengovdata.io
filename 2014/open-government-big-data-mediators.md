@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /open-government-big-data-mediators/
 page_previous: /2014/history-the-movement/

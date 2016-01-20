@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /visualizing-metro-ridership/
 page_previous: /2014/civic-hacking-by-example/

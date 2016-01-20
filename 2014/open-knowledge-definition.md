@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /open-knowledge-definition/
 page_previous: /2014/8-principles/

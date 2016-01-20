@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /paradoxes/
 page_previous: /2014/state-laws-the-district-columbia-code/

@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /history-the-movement/
 page_previous: /2014/civic-hacking/

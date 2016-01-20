@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /analyzable-data-in-open-formats-principles-5-7/
 page_previous: /2014/online-free-primary-timely-accessible-principles-1-4/

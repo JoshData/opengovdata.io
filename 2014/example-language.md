@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /example-language/
 page_previous: /2014/conclusion/

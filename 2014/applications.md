@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /applications/
 page_previous: /2014/why-i-built-govtrackus/

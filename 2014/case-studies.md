@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /case-studies/
 page_previous: /2014/maturity-model-for-prioritization/

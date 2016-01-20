@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /legal-history/
 page_previous: /2014/consumer-products/

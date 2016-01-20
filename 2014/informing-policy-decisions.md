@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /informing-policy-decisions/
 page_previous: /2014/democratizing-legal-information/

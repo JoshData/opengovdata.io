@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /the-us-freedom-information-act/
 page_previous: /2014/ancient-origins-open-access-to-law/

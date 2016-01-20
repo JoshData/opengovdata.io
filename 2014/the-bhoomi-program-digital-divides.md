@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 permalink: /the-bhoomi-program-digital-divides/
 page_previous: /2014/paradoxes/
