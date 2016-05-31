@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /principles/
 page_previous: /2014/the-21st-century-data-policy/
 page_next: /2014/online-free-primary-timely-accessible/
 title: "14 Principles of Open Government Data"

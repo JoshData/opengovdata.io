@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /8-principles/
 page_previous: /2014/example-language/
 page_next: /2014/open-knowledge-definition/
 title: "Open Government Data Definition: The 8 Principles of Open Government Data"
@@ -12,7 +12,7 @@ The 8 Principles of Open Government Data were authored by a working group conven
 
 Though these principles were written early in the open government data movement, they continue to be relevant. Parts are, however, admittedly U.S.-centric, especially the principle regarding licensing. See [No Discrimination and License-Free](/2014/no-discrimination-license-free/) for a discussion. The principles also neglected to mention cost and that availability meant digitally over the Internet.
 
-* * * * *
+------------------------------------------------------------------------
 
 > Government data shall be considered open if the data are made public in a way that complies with the principles below:
 >

@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /open-knowledge-definition/
 page_previous: /2014/8-principles/
 page_next: /2014/new-hampshire-hb-418/
 title: "OKF's Open Knowledge Definition"
@@ -12,7 +12,7 @@ The Open Knowledge Foundation created the Open Knowledge Definition, now called 
 
 The Open Definition is not specific to government-held data. It is intended to address a broader notion of openness and addresses many concerns that arose for open source software that other collections of principles did not think to include. However, I noted in [No Discrimination and License-Free](/2014/no-discrimination-license-free/) that I believed this definition is too weak to be applied to government data, as it would allow governments to control use of the data through licensing. In countries besides the United States licensing is more common and accepted.
 
-* * * * *
+------------------------------------------------------------------------
 
 > A work is open if its manner of distribution satisfies the following conditions:
 >

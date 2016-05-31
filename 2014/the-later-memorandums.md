@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /the-later-memorandums/
 page_previous: /2014/transparency-participation-collaboration/
 page_next: /2014/house-disbursements/
 title: "The Later Memorandums"

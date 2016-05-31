@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /bulk-data-an-api/
 page_previous: /2014/data-quality/
 page_next: /2014/maturity-model-for-prioritization/
 title: "Bulk Data or an API?"

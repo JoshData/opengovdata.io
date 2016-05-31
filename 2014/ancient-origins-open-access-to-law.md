@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /ancient-origins-open-access-to-law/
 page_previous: /2014/legal-history/
 page_next: /2014/the-us-freedom-information-act/
 title: "Ancient Origins of Open Access to Law"
@@ -39,7 +39,7 @@ The law in 7th century AD Europe, under the Visigoths, provides the first instan
 
 The story of the first copyright law exemplifies the differences between then and today. When a monk copied the manuscript of a saint in 6th century Ireland, the reigning king decreed, “To every cow her calf, and consequently to every book its copy.” This decree ordered the monk to hand over his copy to the saint, and in so doing inventing the concept of copyright. But the more interesting event was the first appeal of a copyright ruling. The monk, unhappy with the decree, unleashed the military power of his family against the king, and he won.[^5] In these times when the loss of a single manuscript could be cause for an attack on the king, an open records law seems as though it would have made little sense, as the cost would have easily outweighed the benefit.
 
-And yet, the promulgation of the law using price control was a part of public policy of the time. The Visigothic Code, written in Western Europe around 649-652 (but based on a legal tradition dating back well before that), set a maximum price that the Code itself could be sold for: “it shall not be legal for a vendor to sell a copy of this book for more than four hundred solidi,” or some \$100,000–\$400,000 today, the Code read. In setting a maximum price the Code seemed to intend to create wider access to the Code than would have otherwise occurred.
+And yet, the promulgation of the law using price control was a part of public policy of the time. The Visigothic Code, written in Western Europe around 649-652 (but based on a legal tradition dating back well before that), set a maximum price that the Code itself could be sold for: “it shall not be legal for a vendor to sell a copy of this book for more than four hundred solidi,” or some $100,000–$400,000 today, the Code read. In setting a maximum price the Code seemed to intend to create wider access to the Code than would have otherwise occurred.
 
 And yet a hint of its rationale can be found in another part of the Code. It also directed “bishops and priests to explain to the Jews within their jurisdiction, the decrees which we have heretofore promulgated concerning their perfidy, and also, to give them a copy of this book, which is ordinarily read to them publicly.”[^6] Given the enormous cost of creating a copy and low rates of literacy, I doubt this provision, the Code’s only provision for the free dissemination of the law, was carried out literally. But the law suggests that the purpose of the dissemination of the law was not to widen access to justice but instead to suppress dissidence. While this is the earliest open-records law that I’ve found, the legal tradition may have in any case ended when the Visigoths were replaced by the Moors less than a century later in 711.
 
@@ -95,7 +95,7 @@ The Swedish law returned in various forms elsewhere over the succeeding centurie
 
 [^5]: George Haven Putnam. 1896. Books and their Makers During the Middle Wages. Reprinted 1962, Hilary House Publishers. Page 46.
 
-[^6]: Samuel Parsons Scott. 1910. The Visigothic Code: (Forum judicum). <http://libro.uca.edu/vcode/visigoths.htm>. Scott, the translator of the code, claimed 400 solidi was the equivalent of \$17,600 in 1908, or approximately \$400,000 today. As the solidi was 4.5 grams of gold, the same gold would have been worth just \$110,000 in 1995 (the price of gold has fluctuated significantly since then). To give an idea for the length of the Code, it was translated and annotated within 500 pages.
+[^6]: Samuel Parsons Scott. 1910. The Visigothic Code: (Forum judicum). <http://libro.uca.edu/vcode/visigoths.htm>. Scott, the translator of the code, claimed 400 solidi was the equivalent of $17,600 in 1908, or approximately $400,000 today. As the solidi was 4.5 grams of gold, the same gold would have been worth just $110,000 in 1995 (the price of gold has fluctuated significantly since then). To give an idea for the length of the Code, it was translated and annotated within 500 pages.
 
 [^7]: Jean Baptiste du Halde. 1736. *The general history of China containing Geographical, Historical, Chronological, Political and Physical Description of the Empire of China, Chinese-Tartary, Corea, and Thibet*. Second volume. John Watts: London. pp64–65.
 

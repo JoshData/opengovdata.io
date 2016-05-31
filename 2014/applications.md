@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /applications/
 page_previous: /2014/why-i-built-govtrackus/
 page_next: /2014/sunlight-as-disinfectant/
 title: "Applications for Open Government"

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /introduction/
 page_previous: /
 page_next: /2014/civic-hacking/
 title: "Civic Hacking and Government Data"

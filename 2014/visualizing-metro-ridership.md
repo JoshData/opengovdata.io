@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /visualizing-metro-ridership/
 page_previous: /2014/civic-hacking-by-example/
 page_next: /2014/why-i-built-govtrackus/
 title: "Visualizing Metro Ridership"
@@ -42,7 +42,7 @@ Step 2: Scrub the data
 
 ### What is normalization?
 
-Government data is rarely in a form that will be useful to your application, if only because your idea is so new that no one thought to format the data for that need. Normalization is the process of adding structure. Even if your source data file is in CSV format (a spreadsheet), you’ll probably have to normalize *something* about it. Perhaps dollar amounts are entered in an unwieldy way, some with \$-signs and some without (you’ll want to take them all out), parenthesis notation for negative numbers (you’ll want to turn these into simple minus signs), and so on. The goal is to get everything into a consistent format so when you get to the interesting programming stage (the “transformation”) you don’t have to worry about the details of the source data encoding as you are programming your application logic. That said, you’re lucky if that is the extent of your normalization work. Normalization often requires a combination of cheap automated tricks and some time consuming manual effort. That was the case here.
+Government data is rarely in a form that will be useful to your application, if only because your idea is so new that no one thought to format the data for that need. Normalization is the process of adding structure. Even if your source data file is in CSV format (a spreadsheet), you’ll probably have to normalize *something* about it. Perhaps dollar amounts are entered in an unwieldy way, some with $-signs and some without (you’ll want to take them all out), parenthesis notation for negative numbers (you’ll want to turn these into simple minus signs), and so on. The goal is to get everything into a consistent format so when you get to the interesting programming stage (the “transformation”) you don’t have to worry about the details of the source data encoding as you are programming your application logic. That said, you’re lucky if that is the extent of your normalization work. Normalization often requires a combination of cheap automated tricks and some time consuming manual effort. That was the case here.
 
 WMATA’s historical ridership table in a PDF is great for reading by people, but copying-and-pasting the text of the table from the PDF to a spreadsheet program won’t quite work. I tried it, and you can see the before-and-after result in Figure 2. Copying from PDFs is hit-or-miss. In this case, it’s a bit of a miss: the years, which were supposed to be column headers, are running row after row. Other rows are broken into two, and the names of transit stations that have spaces in their names (that is, they are multiple words) shifts over all of the ridership numbers into the wrong columns. It’s a mess. If a spreadsheet is going to be useful, we need the columns to line up!
 
@@ -90,15 +90,13 @@ All this just to prepare the first data file for use, and we have two files to d
 
 The second data file we’ll use has geographic coordinates of the transit stations. The final step of normalization involved some real manual labor to match stations in the historical data (our spreadsheet) to records in the GTFS data (in stops.txt). It was important to do this by hand because there were no consistent patterns in how stations were named across the two files. Some differences in names were:
 
-[h]
-
-|:--|:--|
-|Historical File|GTFS File|
-|Gallery Place-Chinatown|Gallery Place Chinatown Metro Station|
-|Rhode Island Ave.|Rhode Island Metro Station|
-|Brookland|Brookland-CUA Metro|
-|McPherson Square|McPherson Sq Metro Station|
-|Nat’l Airport (Regan)|National Airport Metro Station|
+|:------------------------|:--------------------------------------|
+| Historical File         | GTFS File                             |
+| Gallery Place-Chinatown | Gallery Place Chinatown Metro Station |
+| Rhode Island Ave.       | Rhode Island Metro Station            |
+| Brookland               | Brookland-CUA Metro                   |
+| McPherson Square        | McPherson Sq Metro Station            |
+| Nat’l Airport (Regan)   | National Airport Metro Station        |
 
 It’s more than common for the naming of things to be different in different data sets. Here the differences included: punctuation (space versus hyphen), abbreviations (“Nat’l”, “SQ”), missing small words (“Ave.”), and added words (“METRO STATION”, “-CUA”). In fact, WMATA’s file misspells the name of the airport station! Trying to automate matching the names could get you fouled up: several dozen bus stops on Rhode Island Ave all look something like “NW RHODE ISLAND AV & NW 3RD ST,” and you wouldn’t want to pick up one of these to match against the Rhode Island Ave. rail stop mentioned in the historical data.
 

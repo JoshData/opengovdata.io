@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /democratizing-legal-information/
 page_previous: /2014/sunlight-as-disinfectant/
 page_next: /2014/informing-policy-decisions/
 title: "Democratizing Legal Information"

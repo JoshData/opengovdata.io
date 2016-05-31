@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /new-hampshire-hb-418/
 page_previous: /2014/open-knowledge-definition/
 page_next: 
 title: "New Hampshire HB 418"
@@ -16,7 +16,7 @@ Other definitions of open data can be found in California SB 1002 (2012)[^3], wh
 
 While the New Hampshire bill is excerpted below, I have included a significant portion of it because it is interesting to see how data policy can be translated into legal language.
 
-* * * * *
+------------------------------------------------------------------------
 
 > AN ACT relative to the use of open source software and open data formats by state agencies and relative to the adoption of a statewide information policy regarding open government data standards. \(\ldots\)
 >

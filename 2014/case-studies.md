@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /case-studies/
 page_previous: /2014/maturity-model-for-prioritization/
 page_next: /2014/us-federal-open-data-policy/
 title: "Case Studies"

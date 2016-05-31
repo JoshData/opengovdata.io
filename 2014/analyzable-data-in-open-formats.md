@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /analyzable-data-in-open-formats/
 page_previous: /2014/online-free-primary-timely-accessible/
 page_next: /2014/no-discrimination-license-free/
 title: "Analyzable Data in Open Formats (Principles 5 and 7)"
@@ -54,7 +54,7 @@ Writing in 2012, Kevin Webb of OpenPlans encountered a problem using geospatial 
 >
 > I’ve been working with GIS tools and data in a professional capacity for going on fifteen years and I consider myself pretty savvy. However, over the last decade all of my work has come to depend on open source GIS tools—my ArcGIS license and the parallel port dongle it required stayed behind when I left university. So while I can tell you all about spatial indexes and encoding formats for transmitting geometric primitives, I missed the memo on ESRI’s new File Geodatabase format; the format now being used to manage and disseminate data at the USGS.[^1]
 
-The new Geodatabase format has become the standard data format for GIS information, replacing the open Shapefile format, Webb wrote. Unfortunately, the only software capable of opening Geodatabase files is the software produced by the company who created the format, ESRI, which sells its software for \$1,500. There is nothing wrong with ESRI keeping its formats proprietary to induce potential buyers to pick up its software. But the USGS’s choice to use a proprietary format reduced the value of the data to the public substantially.
+The new Geodatabase format has become the standard data format for GIS information, replacing the open Shapefile format, Webb wrote. Unfortunately, the only software capable of opening Geodatabase files is the software produced by the company who created the format, ESRI, which sells its software for $1,500. There is nothing wrong with ESRI keeping its formats proprietary to induce potential buyers to pick up its software. But the USGS’s choice to use a proprietary format reduced the value of the data to the public substantially.
 
 Use of proprietary formats may also constitute a form of endorsement that may create a conflict of interest. While some proprietary formats are nearly ubiquitous, it is nevertheless not acceptable to use only proprietary formats, especially closed proprietary formats. On the other hand, the relevant <span>non-proprietary formats</span> may not reach a wide audience. In these cases, it may be necessary to make the data available in multiple formats.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /legal-history/
 page_previous: /2014/consumer-products/
 page_next: /2014/ancient-origins-open-access-to-law/
 title: "A Brief Legal History of Open Government Data"

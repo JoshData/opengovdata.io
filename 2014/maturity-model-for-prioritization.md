@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /maturity-model-for-prioritization/
 page_previous: /2014/bulk-data-an-api/
 page_next: /2014/case-studies/
 title: "A Maturity Model for Prioritizing Open Government Data"
@@ -55,7 +55,7 @@ The vertical axis: Technologies
 
 The rows of the maturity model are ordered according to their technological complexity. Each successive technology makes data more adaptable, in the sense of Yu and Robinson (2012). But the choice of technological complexity as the order is not based on desired outputs but instead on the fact that many of the rows cannot be accomplished without the previous rows having been completed first. That is, while the maturity model is intended to be normative, the ordering of the rows follows partially from logical necessity.
 
-The order is also not from cheap to expensive. In fact, it may be just the opposite: technology helps us reduce costs in the long-term. For instance, the total cost of all FOIA-related activities across the federal government in FY 2008 was \$338 million, mostly for the 3,691 full-time-equivalent staff processing FOIA requests.[^3] FOI, the first row in the maturity model, does not come cheap. In the maturity model, it is the starting point of no technology.
+The order is also not from cheap to expensive. In fact, it may be just the opposite: technology helps us reduce costs in the long-term. For instance, the total cost of all FOIA-related activities across the federal government in FY 2008 was $338 million, mostly for the 3,691 full-time-equivalent staff processing FOIA requests.[^3] FOI, the first row in the maturity model, does not come cheap. In the maturity model, it is the starting point of no technology.
 
 ### Freedom of Information
 

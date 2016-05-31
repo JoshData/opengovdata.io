@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /sunlight-as-disinfectant/
 page_previous: /2014/applications/
 page_next: /2014/democratizing-legal-information/
 title: "Sunlight as a Disinfectant"
@@ -48,15 +48,15 @@ Most of the remaining recommendations sadly still remain on the movement’s wis
 
 - - -
 
-Sunlight’s <span>Party Time</span> website ([politicalpartytime.org](http://politicalpartytime.org)) documents the “political partying circuit”: the continuous stream of fund-raising events taking place in D.C. restaurants and clubs. Party Time does a remarkable job of showing the public conflicts of interest, the gross amount of time lawmakers spend raising money, and the way money yields access. The website does that by showing scans of event invitations, like the one shown in Figure 1. In this invitation to an event for Rep. Mike McIntyre, an individual who wishes to attend must contribute at least \$250 to his campaign, and a Political Action Committee who wishes to have someone attend must contribute at least \$1,000. For those who contribute more, special honors are given such as being a party “host,” which might translate into a few minutes with McIntyre or Rep. Steny Hoyer, the Democratic whip who the invitation boasts will be in attendance.
+Sunlight’s <span>Party Time</span> website ([politicalpartytime.org](http://politicalpartytime.org)) documents the “political partying circuit”: the continuous stream of fund-raising events taking place in D.C. restaurants and clubs. Party Time does a remarkable job of showing the public conflicts of interest, the gross amount of time lawmakers spend raising money, and the way money yields access. The website does that by showing scans of event invitations, like the one shown in Figure 1. In this invitation to an event for Rep. Mike McIntyre, an individual who wishes to attend must contribute at least $250 to his campaign, and a Political Action Committee who wishes to have someone attend must contribute at least $1,000. For those who contribute more, special honors are given such as being a party “host,” which might translate into a few minutes with McIntyre or Rep. Steny Hoyer, the Democratic whip who the invitation boasts will be in attendance.
 
-Did McIntyre even need any of that money? McIntyre seemed to have enough to get himself elected since he gave \$206,889 or 16% of his 2009-2010 war chest to the national and local Democratic Party organizations, which used the money to help other Democrats get elected.[^8] It wasn’t enough to get him a committee chair position, however. See [Corruption](/2014/corruption/). (I don’t mean to single out this particular event. It is nothing unusual.)
+Did McIntyre even need any of that money? McIntyre seemed to have enough to get himself elected since he gave $206,889 or 16% of his 2009-2010 war chest to the national and local Democratic Party organizations, which used the money to help other Democrats get elected.[^8] It wasn’t enough to get him a committee chair position, however. See [Corruption](/2014/corruption/). (I don’t mean to single out this particular event. It is nothing unusual.)
 
 ![image](/figures/partytime.png) <span>Figure 1. <span>Sunlight Foundation</span>’s <span>Party Time</span> (politicalpartytime.org) project documents the fund-raising events that pervade the lives of Members of Congress.</span>
 
 Launched in July 2008, Party Time began collecting fundraiser invitations from anonymous sources, scanning and entering them into a database, and making them publicly searchable and viewable. The site includes an <span>API</span> and a <span>bulk data download</span> revealing over 12,000 invitations in the database at the time of writing.
 
-Since invitations typically have different honorary levels of “sponsorship” and different minimum amounts for individuals and Political Action Committees, all with different terminology, it is difficult to reliably summarize the contribution amounts for particular levels. But for a first approximation using the site’s bulk data download, the average minimum donation required of an individual attendee came out to about \$700, and \$1,375 for PACs. Those levels have remained relatively stable since 2006. This is one way to quantify the price of access to our elected officials, though it’s very rough. For comparison, the current legal maximum contribution an individual may give to a candidate in an election is \$2,500, and PACs may give \$5,000.
+Since invitations typically have different honorary levels of “sponsorship” and different minimum amounts for individuals and Political Action Committees, all with different terminology, it is difficult to reliably summarize the contribution amounts for particular levels. But for a first approximation using the site’s bulk data download, the average minimum donation required of an individual attendee came out to about $700, and $1,375 for PACs. Those levels have remained relatively stable since 2006. This is one way to quantify the price of access to our elected officials, though it’s very rough. For comparison, the current legal maximum contribution an individual may give to a candidate in an election is $2,500, and PACs may give $5,000.
 
 Party Time’s FAQ concisely explains its purpose as something of a mix of civic educator and oversight tool:
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /open-government-big-data-mediators/
 page_previous: /2014/history-the-movement/
 page_next: /2014/civic-hacking-by-example/
 title: "Open Government, Big Data, and Mediators"

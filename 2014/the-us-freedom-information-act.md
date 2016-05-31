@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /the-us-freedom-information-act/
 page_previous: /2014/ancient-origins-open-access-to-law/
 page_next: /2014/the-21st-century-data-policy/
 title: "The U.S. Freedom of Information Act"
@@ -20,11 +20,11 @@ FOIA’s advocates worked for several decades with Congress and the executive br
 
 Johnson only begrudgingly signed the bill later. In a signing statement he pushed back on public access to personal files and other sorts of documents. His worry, which I think was fair, was that some decisions could be made better if deliberations could remain private, essentially the doctrine of executive privilege.[^5]
 
-Delays and fees, such as documents copied at \$1 per page, lead Congress to amend FOIA in 1974. But that wasn’t a good time for President Ford, who was in the middle of responding to *The New York Times*’ coverage of military leaks. Ford vetoed the changes to FOIA hoping to keep control over his office’s information, but Congress easily overrode the veto.[^6] There have been new laws strengthening right-to-know since then — *Who Needs to Know?* by Patrice McDermott (Bernan Press, 2007) is a good reference. But FOIA, and at the state level freedom of information laws (FOIL), have not kept up with technology in the least (though that’s not to say they don’t still serve an important purpose), and as I explained in [Introduction](/2014/introduction/) serve a very different need from open government data.
+Delays and fees, such as documents copied at $1 per page, lead Congress to amend FOIA in 1974. But that wasn’t a good time for President Ford, who was in the middle of responding to *The New York Times*’ coverage of military leaks. Ford vetoed the changes to FOIA hoping to keep control over his office’s information, but Congress easily overrode the veto.[^6] There have been new laws strengthening right-to-know since then — *Who Needs to Know?* by Patrice McDermott (Bernan Press, 2007) is a good reference. But FOIA, and at the state level freedom of information laws (FOIL), have not kept up with technology in the least (though that’s not to say they don’t still serve an important purpose), and as I explained in [Introduction](/2014/introduction/) serve a very different need from open government data.
 
 Most other countries didn’t follow suit in developing FOI laws until the 1990’s and early 2000’s. For additional case studies, see [^7] and [^8].
 
-FOIA is now a major operation in the U.S. federal government. The total cost of all FOIA-related activities across the federal government in FY 2008 was \$338 million, mostly for the 3,691 full-time-equivalent staff processing the requests.[^9]
+FOIA is now a major operation in the U.S. federal government. The total cost of all FOIA-related activities across the federal government in FY 2008 was $338 million, mostly for the 3,691 full-time-equivalent staff processing the requests.[^9]
 
 [^1]: Wallace Parks. 1957. The open government principle: Applying the right to know under the Constitution. The George Washington Law Review, 26.1.
 

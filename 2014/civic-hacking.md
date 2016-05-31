@@ -1,6 +1,6 @@
 ---
 layout: default
-
+permalink: /civic-hacking/
 page_previous: /2014/introduction/
 page_next: /2014/history-the-movement/
 title: "Civic Hacking"
@@ -30,11 +30,9 @@ Government data can empower consumer choice. The <span>real estate websites</spa
 
 > Zillow is powered, in part, by open government data – including freely available data from the Bureau of Labor Statistics, Federal Housing Finance Agency, and the Census Bureau. Zillow uses these data sets to do things like help home buyers in a given region understand the point in years at which buying a home is more financially advantageous than renting the same home.
 
-The private sector has long known the value of government-produced information, though treating government as a platform was only coined “<span>Gov 2.0</span>” recently.[^12]
+The private sector has long known the value of government-produced information, though treating government as a platform was only coined “<span>Gov 2.0</span>” recently.[^12] Environmental, weather, occupational safety[^13], and health-related data have obvious practical consequences for public health. *Healthcare IT News* reported in early 2012 about two recent winners of a contest[^14] to develop health-related applications:
 
-Environmental, weather, occupational safety[^13], and health-related data have obvious practical consequences for public health. *Healthcare IT News* reported in early 2012 about two recent winners of a contest[^14] to develop health-related applications:
-
-> The winning apps . . . were each awarded \$20,000 by [the Department of Health and Human Services’s] Office for the National Coordinator for Health Information Technology (ONC). They are:
+> The winning apps . . . were each awarded $20,000 by [the Department of Health and Human Services’s] Office for the National Coordinator for Health Information Technology (ONC). They are:
 >
 > <span>Ask Dory</span>! Submitted by Chintan Patel, Sharib Khan, MD, and Aamir Hussain of Applied Informatics, LLC, the app helps patients find information about <span>clinical trials</span> for cancer and other diseases, integrating data from ClinicalTrials.gov and making use of an entropy-based, decision-tree algorithm. . . .
 >
@@ -42,7 +40,7 @@ Environmental, weather, occupational safety[^13], and health-related data have o
 
 Information is a crucial driving force in innovation and is a unique kind of resource because it is a so-called “<span>public good</span>.” Consumption of information by one individual does not reduce the availability of information for others. This is why the benefit of information can extend far beyond its initial purpose. Governments as major producers of information are in a strong position to spur innovation by promoting open government data. Open data is a public good and a sort of <span>civic capital</span> that leads to these extraordinary ideas, which are often unpredictable from the data they chose to use.
 
-App development has lately been spurred by contests or “<span>challenges</span>.” The first I was aware of, back in 2008, was <span>Apps for Democracy</span> in Washington, D.C. Apps for Democracy put up \$20,000 in prizes for applications built using the city government’s newly opened data. <span>iStrategyLabs</span>, which worked with the D.C. government to create the contest, said that the contest entries — including one mobile app to submit <span>GPS</span>-tagged photos of potholes and other city problems to the city’s <span>311</span> service — would have cost the government \$2 million to build, [40 times the amount of money the D.C. government actually spent on encouraging the apps to be created](http://www.istrategylabs.com/2008/11/apps-for-democracy-yeilds-4000-roi-in-30-days-for-dcgov/).[^16]
+App development has lately been spurred by contests or “<span>challenges</span>.” The first I was aware of, back in 2008, was <span>Apps for Democracy</span> in Washington, D.C. Apps for Democracy put up $20,000 in prizes for applications built using the city government’s newly opened data. <span>iStrategyLabs</span>, which worked with the D.C. government to create the contest, said that the contest entries — including one mobile app to submit <span>GPS</span>-tagged photos of potholes and other city problems to the city’s <span>311</span> service — would have cost the government $2 million to build, [40 times the amount of money the D.C. government actually spent on encouraging the apps to be created](http://www.istrategylabs.com/2008/11/apps-for-democracy-yeilds-4000-roi-in-30-days-for-dcgov/).[^16]
 
 Solving real-world problems often takes years of deliberate effort, though. iStrategyLabs’s estimate of a 40-times return on investment for the DC government was a public relations exaggeration. Most app contests do not produce apps that actually solve problems. The same is true of “<span>hackathons</span>,” one- or two-day community-run problem-solving events typically held around a particular theme. At least, it is true when you look at a single contest or hackathon in isolation. But each is a small part of an incredibly broad movement.
 
