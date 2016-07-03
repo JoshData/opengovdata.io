@@ -57,7 +57,9 @@ Citizens who use Georgia’s official website[^7] for reading its laws must asse
 >
 > You hereby represent and warrant that all use of the Research Service will comply with this Agreement and all federal, state and local laws, statutes, rules and regulations.[^9]
 
-Does that mean you can’t read the law on a device you share with your family members, like an iPad? And surely you don’t plan to break any laws by reading the law, but what if you do? Not only do we not withhold the law from those convicted of crimes, we actually provide the law to prisoners to assist in their own defense. This paragraph, even though innocuous sounding, is antithetical to public access. These terms of use create civil penalties[^10] for reading the law and sharing it with others.
+Does that mean you can’t read the law on a device you share with your family members, like an iPad? And surely you don’t plan to break any laws by reading the law, but what if you do? Not only do we not withhold the law from those convicted of crimes, we actually provide the law to prisoners to assist in their own defense. The contract, even though innocuous sounding, is antithetical to public access.
+
+Terms of use create civil penalties, if not also criminal penalties such as jail time. Online, the distinction between civil and criminal is wiped away by the Computer Fraud and Abuse Act, under which violations of website terms of service agreements like these can lead to federal felony charges.[^10]
 
 (Ed Walters of <span>Fast Case</span> has written extensively about [who owns the law](http://blog.law.cornell.edu/voxpop/2011/07/15/tear-down-this-paywall/). For a video, see <http://reinventlawchannel.com/ed-walters-who-owns-the-law/>.)
 
@@ -102,7 +104,7 @@ Zvenyach is now working to publish DC’s laws in a structured data format and u
 
 [^9]: For more details, see my blog post at <http://razor.occams.info/blog/2014/04/03/reading-the-law-on-an-ipad-in-georgia-you-could-go-to-jail/>.
 
-[^10]: If not also criminal penalties such as jail time. Online, the distinction between civil and criminal is wiped away by the Computer Fraud and Abuse Act. Violations of website terms of service agreements like these can lead to federal felony charges. See Zoe Lofgren and Ron Wyden. 2013. Introducing Aaron’s Law, a Desperately Needed Reform of the Computer Fraud and Abuse Act. In *Wired*. <http://www.wired.com/opinion/2013/06/aarons-law-is-finally-here/>.
+[^10]: Zoe Lofgren and Ron Wyden. 2013. [Introducing Aaron’s Law, a Desperately Needed Reform of the Computer Fraud and Abuse Act](http://www.wired.com/opinion/2013/06/aarons-law-is-finally-here/). In *Wired*; Kim Zetter. June 29, 2016. [Researchers Sue the Government Over Computer Hacking Law](https://www.wired.com/2016/06/researchers-sue-government-computer-hacking-law/). In *Wired*.
 
 [^11]: <https://law.resource.org>
 
